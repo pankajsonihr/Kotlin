@@ -1,5 +1,5 @@
 import kotlin.random.Random
-
+//This code is created by Pankaj, Rama Venkata Siva Sai and Mahroon Nisha
 class Die(name:String="D6", sides:Int=6, _colour:String="Green"){
     private var Name:String = name
     private var Colour:String = _colour
