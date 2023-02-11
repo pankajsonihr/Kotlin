@@ -1,3 +1,4 @@
+//This code is created by Pankaj, Rama Venkata Siva Sai and Mahroon Nisha
 fun main(){
     println("Creating default dice")
     val d6 = Die()
